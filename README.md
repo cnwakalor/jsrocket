@@ -1,2 +1,0 @@
-# jsrocket
-Javascript
