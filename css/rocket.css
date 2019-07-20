@@ -32,12 +32,14 @@ a:hover{
 }
 
 .right{
-	background-color: antiquewhite;
+	background-image: url('../img/pink.gif');
+	background-size: cover;
 	position: fixed;
 	width: 50%;
 	height: 100%;
 	top: 0;
 	right: 0;
+
 }
 
 .ground{
